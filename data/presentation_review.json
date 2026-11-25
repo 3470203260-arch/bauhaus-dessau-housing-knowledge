@@ -1,0 +1,61 @@
+{
+  "id": "PR01",
+  "task_id": "PT01",
+  "profile_id": "PP01",
+  "version": "2026-11-25-relations",
+  "target": "PT01对应网页、数据和Word输出",
+  "human_reviewer": null,
+  "human_acceptance": "unknown",
+  "checks": [
+    {
+      "id": "V01",
+      "dimension": "资料一致性",
+      "status": "pass",
+      "method": "CSV JSON SQLite与网页内嵌核心数据对照通过；关系端点及统计一致。"
+    },
+    {
+      "id": "V02",
+      "dimension": "比较回查",
+      "status": "pass",
+      "method": "3条案例的K/S编号、记述与分析类型及规则引用检查通过。"
+    },
+    {
+      "id": "V03",
+      "dimension": "交互契约",
+      "status": "pass",
+      "method": "最小DOM夹具测试通过：5个阅读视图、全部来源筛选、44/8分类筛选、52条证据详情和3图生成；不是实际浏览器显示验收。"
+    },
+    {
+      "id": "V04",
+      "dimension": "实际网页显示",
+      "status": "unknown",
+      "method": "实际浏览器逐视图检查；不能用静态分析代替"
+    },
+    {
+      "id": "V05",
+      "dimension": "Word格式与显示",
+      "status": "pass",
+      "method": "三份Word字体扫描通过；本机Word打印后逐页查看12+7+4页，无裁切重叠。"
+    },
+    {
+      "id": "V06",
+      "dimension": "本人实质核验",
+      "status": "pending",
+      "method": "本人实际阅读并填写审核记录"
+    },
+    {
+      "id": "V07",
+      "dimension": "使用成效",
+      "status": "unknown",
+      "method": "尚无住户行为和经济资料，不判成功"
+    },
+    {
+      "id": "V08",
+      "dimension": "课程图谱实拍",
+      "status": "pending",
+      "method": "3张新版网页实拍尚未补齐"
+    }
+  ],
+  "overall": "indeterminate",
+  "note": "单项通过不替代其他维度；未知不转为通过。"
+}

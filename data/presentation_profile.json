@@ -1,0 +1,150 @@
+{
+  "id": "PP01",
+  "version": "2026-11-25-relations",
+  "reuse_type": "information_structure",
+  "method_reference": {
+    "id": "M01",
+    "title": "风格克隆系统解析",
+    "signed_author": "冯白帆（依所附文件署名）",
+    "version": "2026年10月正式版（依文件自述）",
+    "role": "课堂方法与信息结构参考",
+    "availability": "用户提供的MHTML文件；不公开原件",
+    "historical_evidence": false,
+    "identity_verification": "未作独立身份核验"
+  },
+  "purpose": "以活动关系、空间接口和解释边界呈现德绍住宅比较，让研究判断可以回查。",
+  "statement_types": [
+    {
+      "id": "documented",
+      "label": "文献记述",
+      "meaning": "所读来源明确表达的内容，可能是作者观点，不自动等于一手历史事实。"
+    },
+    {
+      "id": "interpretive",
+      "label": "研究推论",
+      "meaning": "本专题据资料提出的比较解释，须显示所据命题和未证实部分。"
+    },
+    {
+      "id": "requirement",
+      "label": "任务要求",
+      "meaning": "本次课程及用户提出的交付约束，不当作历史对象的属性。"
+    },
+    {
+      "id": "presentation",
+      "label": "呈现决策",
+      "meaning": "为阅读和检索选择的布局与视觉编码，不反推历史风格。"
+    }
+  ],
+  "rules": [
+    {
+      "rule_id": "P01",
+      "category": "content",
+      "change_class": "project_locked",
+      "priority": "must",
+      "evidence_kind": "user_requirement",
+      "target": "研究范围",
+      "relationship": "中国环境设计研究生视角；核心为三类德绍住宅",
+      "condition": "本专题",
+      "allowed_variation": "可调整展示顺序，不能改变已有来源编号与证据身份",
+      "verification": "比较案例、K编号、S编号与原数据逐项对应",
+      "method_locator": "1.3任务简报；2.5参考角色"
+    },
+    {
+      "rule_id": "P02",
+      "category": "content",
+      "change_class": "project_locked",
+      "priority": "must",
+      "evidence_kind": "design_choice",
+      "target": "证据身份",
+      "relationship": "文献记述与研究推论分别呈现，课堂参考不计入历史来源",
+      "condition": "全站及论文",
+      "allowed_variation": "标签措辞可解释，类别边界不合并",
+      "verification": "44条来源明示与8条本文分析按数据计算；M01独立登记",
+      "method_locator": "2.6陈述类型；7.5记录分离"
+    },
+    {
+      "rule_id": "P03",
+      "category": "content",
+      "change_class": "core",
+      "priority": "should",
+      "evidence_kind": "design_choice",
+      "target": "案例比较",
+      "relationship": "活动关系→空间接口→解释边界",
+      "condition": "比较三个不同住宅任务",
+      "allowed_variation": "案例事实与缺口分别填写，空缺不能靠对称版式补齐",
+      "verification": "三张案例卡都回指已有知识元，不将分析改称史实",
+      "method_locator": "3.6关系组织；5.3关系角色"
+    },
+    {
+      "rule_id": "P04",
+      "category": "presentation",
+      "change_class": "conditional",
+      "priority": "should",
+      "evidence_kind": "design_choice",
+      "target": "阅读路径",
+      "relationship": "先看比较问题，再按命题追至来源和读取范围",
+      "condition": "网页",
+      "allowed_variation": "用户可直接进入图谱或来源；不强制线性阅读",
+      "verification": "案例证据按钮能打开匹配命题，命题能显示来源范围",
+      "method_locator": "B3空间构图；E1信息密度；E2视觉锚点"
+    },
+    {
+      "rule_id": "P05",
+      "category": "presentation",
+      "change_class": "conditional",
+      "priority": "should",
+      "evidence_kind": "design_choice",
+      "target": "图文一致性",
+      "relationship": "蓝色实线与文字标识对应来源明示，赭色虚线与文字标识对应分析",
+      "condition": "图谱与卡片",
+      "allowed_variation": "颜色可按媒介调整，证据意义与线型须保留；不是包豪斯历史原色的证明",
+      "verification": "颜色之外仍可由标签及线型辨识；图谱箭头和K编号可见",
+      "method_locator": "6.2一致性锚点；5.4条件适配"
+    },
+    {
+      "rule_id": "P06",
+      "category": "content",
+      "change_class": "project_locked",
+      "priority": "must",
+      "evidence_kind": "design_choice",
+      "target": "来源卡",
+      "relationship": "作者题名、读取范围、具体定位、相关命题相互连接",
+      "condition": "所有来源",
+      "allowed_variation": "可折叠长著录，不隐藏节选和未取得原刊分页的说明",
+      "verification": "9项来源均显示access_scope；额外入口单独标识用途",
+      "method_locator": "1.4过程记录；2.5参考角色"
+    },
+    {
+      "rule_id": "P07",
+      "category": "content",
+      "change_class": "project_locked",
+      "priority": "must",
+      "evidence_kind": "design_choice",
+      "target": "核验状态",
+      "relationship": "结构检查、实际显示检查、本人实质审核和历史成效验证分别记录",
+      "condition": "验收和交付",
+      "allowed_variation": "状态可随真实结果更新，未知不自动通过",
+      "verification": "待补实拍和人工审核继续待完成，不填虚构验收人",
+      "method_locator": "基本命题的状态分离；7.3两级验收"
+    },
+    {
+      "rule_id": "P08",
+      "category": "presentation",
+      "change_class": "project_locked",
+      "priority": "must",
+      "evidence_kind": "user_requirement",
+      "target": "论文及交付",
+      "relationship": "宋体12磅正文与可读图谱、离线可用网页分别校核",
+      "condition": "Word与网页",
+      "allowed_variation": "网页标题层级可按屏幕调整，Word仍按既定字体字号",
+      "verification": "Word字体扫描和逐页检查；网页功能测试与实拍分开记录",
+      "method_locator": "5.5关联修改；7.4最小关联集合"
+    }
+  ],
+  "not_adopted": [
+    "附录D启动指令不自动执行",
+    "人物面部DNA、参考权重、固定配色比例不用于住宅史论",
+    "附录的包豪斯风格概括不替代中文学术史料",
+    "不上传课件全文、原图或制作仿历史效果图"
+  ]
+}
