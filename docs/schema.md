@@ -10,3 +10,7 @@ relations：id subject_id predicate object_id knowledge_id source_ids epistemic_
 来源明示44条，指所读材料明确表达的命题，可能是作者观点或项目记述，不能全部称作一手历史事实。本文分析8条，标识比较和解释，不当作已证实因果。人工核验0，不将AI对照计入。后续由实际审核人填写审核表。
 
 辅助展示记录：case_comparisons为3条案例阅读组织，presentation_profile为规则档案，presentation_task为当前任务，presentation_review为分维度核验。均不增加历史来源、节点、知识元或关系统计。课堂M01只为方法参考。
+
+实际type分类及节点数：{"文献": 8, "概念或属性值": 55, "建筑或聚落": 4, "人物或人物组合": 2}。未另建机构类实体，建筑部门集体项目当前为属性值；文献节点数不等于来源表记录数。
+
+id为表内唯一键；source_ids为分号分隔的来源表外键；locator记录实际印刷页或网页节段，不互相冒充；epistemic_status只取来源明示或本文分析；human_reviewer和human_review_date仅据真实人工审核填写。relations的subject_id和object_id回指实体表，knowledge_id回指最小命题，谓词、来源和证据身份应与对应命题一致。关系的五组用途为解释性归纳，不是已存在的新字段。
