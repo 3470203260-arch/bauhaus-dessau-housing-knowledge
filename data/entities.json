@@ -1,499 +1,415 @@
 [
   {
     "id": "E001",
-    "label": "1925至1932年",
+    "label": "中国住宅研究",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E002",
-    "label": "1927年",
+    "label": "中国接受史",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E003",
-    "label": "1928年迈耶接任",
+    "label": "住区中心",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E004",
-    "label": "1929年装修部门",
+    "label": "使用适应性",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E005",
-    "label": "1996年",
+    "label": "公共空间使用",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E006",
-    "label": "2017年扩展",
+    "label": "共同设计",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E007",
-    "label": "314套机构口径",
+    "label": "内部矛盾",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E008",
-    "label": "316所住宅说",
+    "label": "区分原建与重建",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E009",
-    "label": "Kästner公司",
-    "type": "机构或设计团队",
+    "label": "历史与接受",
+    "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E010",
-    "label": "Schuldenfrei研究",
-    "type": "文献",
+    "label": "历史解释",
+    "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E011",
-    "label": "Seelow研究",
-    "type": "文献",
+    "label": "可负担性",
+    "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E012",
-    "label": "Stackmann研究",
-    "type": "文献",
+    "label": "合作社大楼",
+    "type": "建筑或聚落",
     "aliases": ""
   },
   {
     "id": "E013",
-    "label": "专业工作组",
+    "label": "合理性",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E014",
-    "label": "主要生活空间朝南",
+    "label": "基地关系",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E015",
-    "label": "五栋三层住宅",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E016",
-    "label": "住宅设计评价",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E017",
-    "label": "住户家具与配色",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E018",
-    "label": "使用改造",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E019",
-    "label": "使用灵活性",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E020",
-    "label": "共享生活设施",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E021",
-    "label": "共同洗涤与晾晒",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E022",
-    "label": "功能图解",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E023",
-    "label": "包豪斯",
-    "type": "机构或设计团队",
-    "aliases": ""
-  },
-  {
-    "id": "E024",
-    "label": "包豪斯建筑部门",
-    "type": "机构或设计团队",
-    "aliases": ""
-  },
-  {
-    "id": "E025",
-    "label": "包豪斯德绍时期",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E026",
-    "label": "包豪斯物品",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E027",
-    "label": "包豪斯遗产",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E028",
-    "label": "北侧外廊入户",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E029",
-    "label": "单户空间",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E030",
-    "label": "可调节隔墙",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E031",
-    "label": "商店与住宅",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E032",
-    "label": "复制理想与消费现实",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E033",
     "label": "外廊住宅",
     "type": "建筑或聚落",
     "aliases": "Laubenganghäuser;Houses with Balcony Access"
   },
   {
-    "id": "E034",
+    "id": "E016",
     "label": "大师住宅",
     "type": "建筑或聚落",
     "aliases": ""
   },
   {
-    "id": "E035",
-    "label": "完整居住环境",
+    "id": "E017",
+    "label": "室内外联系",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
+    "id": "E018",
+    "label": "室内色彩",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E019",
+    "label": "家具与色彩",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E020",
+    "label": "家具照明",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E021",
+    "label": "家庭结构",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E022",
+    "label": "家庭菜园",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E023",
+    "label": "居住与工作室",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E024",
+    "label": "居家工作",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E025",
+    "label": "工坊实验",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E026",
+    "label": "布劳耶家具实验",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E027",
+    "label": "建筑界译介",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E028",
+    "label": "建筑部门集体项目",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E029",
+    "label": "建造细部",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E030",
+    "label": "开窗操作",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E031",
+    "label": "形式生成",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E032",
+    "label": "总体联系",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E033",
+    "label": "悬臂椅",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E034",
+    "label": "战后住宅研究",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E035",
+    "label": "托尔滕排屋",
+    "type": "建筑或聚落",
+    "aliases": ""
+  },
+  {
     "id": "E036",
-    "label": "家庭支付能力",
+    "label": "持续分析",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E037",
-    "label": "家庭种植园地",
+    "label": "收纳设备统筹",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E038",
-    "label": "居住与展示",
+    "label": "政治与社会条件",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E039",
-    "label": "居住社会目标",
+    "label": "整体艺术",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E040",
-    "label": "工业批量销售",
+    "label": "整体设计",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E041",
-    "label": "工坊原型实验",
+    "label": "材料触感",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E042",
-    "label": "工序计划与运输",
+    "label": "构造细节追问",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E043",
-    "label": "希尔伯赛默",
-    "type": "人物或人物组合",
+    "label": "标准化",
+    "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E044",
-    "label": "建造",
-    "type": "文献",
+    "label": "校舍比较研究",
+    "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E045",
-    "label": "德绍储蓄建筑合作社",
-    "type": "机构或设计团队",
-    "aliases": ""
-  },
-  {
-    "id": "E046",
-    "label": "德绍市",
-    "type": "机构或设计团队",
-    "aliases": ""
-  },
-  {
-    "id": "E047",
-    "label": "技术条件限制",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E048",
-    "label": "持续使用与传播",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E049",
-    "label": "日照与居住卫生",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E050",
-    "label": "日用品标准类型",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E051",
-    "label": "未全部实现的扩建",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E052",
-    "label": "材料实验",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E053",
-    "label": "构件组合与流水生产",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E054",
-    "label": "样板住宅家具建议",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E055",
     "label": "格罗皮乌斯",
     "type": "人物或人物组合",
     "aliases": "Walter Gropius"
   },
   {
-    "id": "E056",
-    "label": "格罗皮乌斯事务所",
-    "type": "机构或设计团队",
-    "aliases": ""
-  },
-  {
-    "id": "E057",
-    "label": "模块化建造",
+    "id": "E046",
+    "label": "梅耶设计方法",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
-    "id": "E058",
-    "label": "模块逻辑的局限",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E059",
+    "id": "E047",
     "label": "汉内斯迈耶",
     "type": "人物或人物组合",
     "aliases": "Hannes Meyer"
   },
   {
+    "id": "E048",
+    "label": "王凯研究",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E049",
+    "label": "王家浩研究",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E050",
+    "label": "环境设计研究",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E051",
+    "label": "现场生产线",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E052",
+    "label": "祝帅研究",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E053",
+    "label": "空间类型",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E054",
+    "label": "童明研究",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E055",
+    "label": "简化人物史",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E056",
+    "label": "结构创新",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E057",
+    "label": "结构呈现",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E058",
+    "label": "苏丹研究",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
+    "id": "E059",
+    "label": "译名变化",
+    "type": "概念或属性值",
+    "aliases": ""
+  },
+  {
     "id": "E060",
-    "label": "消费合作社建筑",
-    "type": "建筑或聚落",
+    "label": "起居活动",
+    "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E061",
-    "label": "特尔滕传播与接受",
+    "label": "跨尺度联系",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E062",
-    "label": "特尔滕排屋",
-    "type": "建筑或聚落",
-    "aliases": "Dessau-Törten Housing Estate"
+    "label": "身体使用",
+    "type": "概念或属性值",
+    "aliases": ""
   },
   {
     "id": "E063",
-    "label": "现代家用设备",
+    "label": "辨认传播语境",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E064",
-    "label": "现代形式不等同廉价复制",
+    "label": "过程图纸比较",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E065",
-    "label": "现场构件生产",
+    "label": "过程材料缺失",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E066",
-    "label": "生产原则",
-    "type": "文献",
+    "label": "邻里交往",
+    "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E067",
-    "label": "生产标准化",
+    "label": "阳台通道",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E068",
-    "label": "生产获得与使用条件",
+    "label": "需求持续校核",
     "type": "概念或属性值",
     "aliases": ""
   },
   {
     "id": "E069",
-    "label": "生活过程分析",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E070",
-    "label": "砖与木等材料",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E071",
-    "label": "社会与合作组织",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E072",
-    "label": "租赁",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E073",
-    "label": "穆切与保利克",
-    "type": "人物或人物组合",
-    "aliases": ""
-  },
-  {
-    "id": "E074",
-    "label": "组织协作",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E075",
-    "label": "聚落生活服务",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E076",
-    "label": "资金限制",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E077",
-    "label": "迈耶与建筑部门",
-    "type": "机构或设计团队",
-    "aliases": ""
-  },
-  {
-    "id": "E078",
-    "label": "迈耶时期",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E079",
-    "label": "配置价格",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E080",
-    "label": "钢住宅",
-    "type": "建筑或聚落",
-    "aliases": ""
-  },
-  {
-    "id": "E081",
-    "label": "钢板与钢骨架",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E082",
-    "label": "隔声与热工缺陷",
-    "type": "概念或属性值",
-    "aliases": ""
-  },
-  {
-    "id": "E083",
-    "label": "面向购房者",
+    "label": "项目评价",
     "type": "概念或属性值",
     "aliases": ""
   }

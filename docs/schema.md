@@ -1,10 +1,10 @@
-# 知识标准与字段说明
+# 知识标准
 
-知识元为最小可核查命题；一条命题映射一条语义关系。64与64不可相加。
-sources：独立文献或网页著录；历史文本转录2项，机构研究7项，遗产记录1项，学术研究3项。
-entities：人物或人物组合、机构或团队、建筑或聚落、文献、概念或属性值。值节点计入83个节点，但不称83个独立历史实体。
-knowledge_units：id，subject，predicate，object，statement，source_ids，locator，epistemic_status，review_status，human_reviewer，human_review_date。
-relations：id，subject_id，predicate，object_id，knowledge_id，source_ids，epistemic_status。
-多来源以分号分隔；知识元编号与关系编号不可复用；网页定位以栏目名为准。原文年份与版本年份分别辨认，不补造页码。
-来源明示58条，本文分析6条。后者不是直接影响或因果事实。
-人工核验表由本人填写，当前为0，不把AI对照记成人工核验。
+本版知识元52条，一条最小命题对应一条关系，不相加。节点69个，包含人物、团队、项目、研究文献、概念和属性值，不声称为69个历史实体。9项中文来源按独立作品计数；同篇上下网页不重复计算。
+
+sources：id author title category url locator accessed reference access_scope additional_url。
+entities：id label type aliases。
+knowledge_units：id subject predicate object statement source_ids locator epistemic_status review_status human_reviewer human_review_date。
+relations：id subject_id predicate object_id knowledge_id source_ids epistemic_status。
+
+来源明示44条，指所读材料明确表达的命题，可能是作者观点或项目记述，不能全部称作一手历史事实。本文分析8条，标识比较和解释，不当作已证实因果。人工核验0，不将AI对照计入。后续由实际审核人填写审核表。

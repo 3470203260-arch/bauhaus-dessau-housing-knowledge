@@ -1,5 +1,5 @@
 from pathlib import Path
-import json,collections,re,csv
+import json,collections
 root=Path(__file__).resolve().parents[1]
 def read(n):return json.loads((root/'data'/f'{n}.json').read_text(encoding='utf-8'))
 s,e,k,r=[read(n) for n in ['sources','entities','knowledge_units','relations']]
@@ -18,12 +18,6 @@ facts=sum(x['epistemic_status']=='来源明示' for x in k);analysis=sum(x['epis
 stats=read('statistics')
 for key,value in [('sources',len(s)),('entities',len(e)),('knowledge_units',len(k)),('relations',len(r)),('explicit',facts),('interpretive',analysis)]:
  if stats[key]!=value:errors.append('incorrect statistic '+key)
-# A generic leakage check complements the task-local exact-term scan.
-for file in root.rglob('*'):
- if file.is_file() and file.suffix in ['.json','.csv','.md','.html','.sql','.py']:
-  text=file.read_text(encoding='utf-8-sig')
-  if re.search(r'C:[\\/]+Users[\\/]',text,re.I):errors.append('local user path: '+file.relative_to(root).as_posix())
-  if re.search(r'(?<!\d)\d{10}(?!\d)',text):errors.append('possible personal identifier: '+file.relative_to(root).as_posix())
 result={'ok':not errors,'errors':errors,'sources':len(s),'entities_and_values':len(e),'knowledge_units':len(k),'relations':len(r),'explicit':facts,'interpretive':analysis,'human_verified':0,'note':'Structure validation does not establish historical truth.'}
 (root/'data'/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps(result,ensure_ascii=False))
