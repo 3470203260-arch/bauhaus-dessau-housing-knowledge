@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "errors": [],
+  "sources": 13,
+  "entities_and_values": 83,
+  "knowledge_units": 64,
+  "relations": 64,
+  "explicit": 58,
+  "interpretive": 6,
+  "human_verified": 0,
+  "note": "Structure validation does not establish historical truth."
+}

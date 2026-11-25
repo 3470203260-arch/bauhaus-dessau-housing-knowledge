@@ -1,2 +1,36 @@
-# bauhaus-dessau-housing-knowledge
-Evidence-linked knowledge base on housing design in Dessau, 1925–1930. Sources, structured claims, graphs and review records.
+# 德绍居住设计专题知识库
+
+研究问题：生产标准化怎样成为可获得并可持续使用的居住条件？
+
+时间重点1925—1930年；特尔滕排屋与外廊住宅为核心，大师住宅、钢住宅、消费合作社建筑作比较。
+
+## 实际成果
+
+- 13项来源记录：2项历史文本转录，7项机构说明，1项遗产记录，3项学术研究。
+- 83个实体及属性值节点；64条知识元；64条关系，两者一一对应，不相加。
+- 58条来源明示命题；6条本文分析；人工已核验0条。
+- 3个局部图谱，可检索离线网页，CSV / JSON / SQLite数据。
+
+## 阅读和复核
+
+下载后直接打开[index.html](index.html)，无需安装。GitHub文件页不会直接执行HTML，可下载仓库后离线打开。图谱预览在下方。
+
+每条知识元均记录source_ids和locator；在[data/sources.csv](data/sources.csv)查URL。原刊元数据冲突等见[data/issues.csv](data/issues.csv)。待本人核验表为[data/human_review.csv](data/human_review.csv)，未填写审核人和日期。
+
+运行 `python tools/validate.py` 可重新检验结构与统计；数据库查询例见[docs/queries.sql](docs/queries.sql)。本仓库不包含姓名、学号、学校封面或论文提交文件。
+
+## 证据边界
+
+历史文本通过公开转录阅读，未宣称调阅原件。机构页面不等于原始住户档案。分析边不等于直接影响或因果证据。未收集住户收入、贷款和长期维护账目，未计算可负担性提升率。AI辅助建库与写作必须经过本人实质核验后用于课程提交。
+
+## 局部图谱
+
+![生产纲领与实施边界](figures/graph1.png)
+
+![两类住宅的主体与获得方式](figures/graph2.png)
+
+![材料实验与居住服务](figures/graph3.png)
+
+## 版权与更新
+
+原文及原始图片版权归原权利人。本仓库只保存简要释义、著录、结构数据及自制图，不再分发来源全文或建筑照片。来源访问日期2026-11-25。首次版本为待本人核验版；后续以真实核验记录更新。
