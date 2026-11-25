@@ -2,7 +2,7 @@
   {
     "id": "E001",
     "label": "中国住宅研究",
-    "type": "概念或属性值",
+    "type": "文献",
     "aliases": ""
   },
   {
@@ -200,14 +200,14 @@
   {
     "id": "E034",
     "label": "战后住宅研究",
-    "type": "概念或属性值",
+    "type": "文献",
     "aliases": ""
   },
   {
     "id": "E035",
     "label": "托尔滕排屋",
     "type": "建筑或聚落",
-    "aliases": ""
+    "aliases": "特尔滕排屋;Dessau-Törten Housing Estate"
   },
   {
     "id": "E036",
@@ -260,7 +260,7 @@
   {
     "id": "E044",
     "label": "校舍比较研究",
-    "type": "概念或属性值",
+    "type": "文献",
     "aliases": ""
   },
   {
@@ -279,18 +279,18 @@
     "id": "E047",
     "label": "汉内斯迈耶",
     "type": "人物或人物组合",
-    "aliases": "Hannes Meyer"
+    "aliases": "汉斯·梅耶;汉内斯·迈耶;Hannes Meyer"
   },
   {
     "id": "E048",
     "label": "王凯研究",
-    "type": "概念或属性值",
+    "type": "文献",
     "aliases": ""
   },
   {
     "id": "E049",
     "label": "王家浩研究",
-    "type": "概念或属性值",
+    "type": "文献",
     "aliases": ""
   },
   {
@@ -308,7 +308,7 @@
   {
     "id": "E052",
     "label": "祝帅研究",
-    "type": "概念或属性值",
+    "type": "文献",
     "aliases": ""
   },
   {
@@ -320,7 +320,7 @@
   {
     "id": "E054",
     "label": "童明研究",
-    "type": "概念或属性值",
+    "type": "文献",
     "aliases": ""
   },
   {
@@ -344,7 +344,7 @@
   {
     "id": "E058",
     "label": "苏丹研究",
-    "type": "概念或属性值",
+    "type": "文献",
     "aliases": ""
   },
   {
