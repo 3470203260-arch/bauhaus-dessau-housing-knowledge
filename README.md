@@ -15,12 +15,14 @@
 
 图谱中的虚线为本文分析，不能证明直接影响、历史因果或实际使用效果。项目媒体不代替档案；未取得住户账目与调查资料，不计算可负担性或满意度改善率。
 
-![概念与方法](figures/graph1.png)
+![概念与方法](figures/screenshot1.png)
 
-![空间与生活关系](figures/graph2.png)
+![空间与生活关系](figures/screenshot2.png)
 
-![集体设计与证据边界](figures/graph3.png)
+![集体设计与证据边界](figures/screenshot3.png)
 
 字段见docs/schema.md，流程见docs/method.md，SQL例见docs/queries.sql，结构校验运行tools/validate.py。真实人工审核记录填写data/human_review.csv，不能把AI来源对照记成人工抽检。
 
 本仓库只含匿名资料整理、简要释义和自制图，不上传课程封面及论文，不再分发原文全文与建筑照片。各来源版权归原权利人。访问日期2026-11-25。
+
+三幅展示图已替换为新版离线网页的实际窗口截图，仅裁去地址栏和边框；原数据导出图graph1—3另行保留。采集过程与图像哈希见[截图记录](docs/screenshot_provenance.json)。本人审核状态不因补图而改变。

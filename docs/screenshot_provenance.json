@@ -1,0 +1,72 @@
+{
+  "captured_on": "2026-11-25",
+  "browser": "ego lite",
+  "tool": "native window screenshot",
+  "captures": [
+    {
+      "file": "figures/screenshot1.png",
+      "view_index": 0,
+      "method": "用户手动打开新版离线网页后，由原生窗口截图工具取得；仅裁去地址栏与窗口边框，不重绘、不缩放",
+      "original_dimensions": [
+        1707,
+        912
+      ],
+      "crop_box": [
+        12,
+        94,
+        1685,
+        890
+      ],
+      "dimensions": [
+        1673,
+        796
+      ],
+      "raw_sha256": "f900225528f4a18547c06e251bf85b24ea45d1364d9532513dcb5b073c9c40ea",
+      "sha256": "6ad1d62a7fd188356c9e4c795944bfa38134eec704deab2414e35d3254bd5785"
+    },
+    {
+      "file": "figures/screenshot2.png",
+      "view_index": 1,
+      "method": "用户手动打开新版离线网页后，由原生窗口截图工具取得；仅裁去地址栏与窗口边框，不重绘、不缩放",
+      "original_dimensions": [
+        1707,
+        912
+      ],
+      "crop_box": [
+        12,
+        94,
+        1685,
+        890
+      ],
+      "dimensions": [
+        1673,
+        796
+      ],
+      "raw_sha256": "67d5e6cbf606a0fadb1d2e8b3914559c97f34fa2f9064220aa8c7d3c65ff4c83",
+      "sha256": "6f69c8d37c6b3f2897b8b6df2a9def38d86171997c76ffb6fa1b5ba48a906072"
+    },
+    {
+      "file": "figures/screenshot3.png",
+      "view_index": 2,
+      "method": "用户手动打开新版离线网页后，由原生窗口截图工具取得；仅裁去地址栏与窗口边框，不重绘、不缩放",
+      "original_dimensions": [
+        1707,
+        912
+      ],
+      "crop_box": [
+        12,
+        94,
+        1685,
+        890
+      ],
+      "dimensions": [
+        1673,
+        796
+      ],
+      "raw_sha256": "55da96234a4aa64a7b233cecc1589c4cc8a9729f4e0f2bd7ec85bdd4954dc067",
+      "sha256": "c7254219a5edc8324201ea47fc458c1e256af619aa940fe2d406b7f4ce3a06f9"
+    }
+  ],
+  "privacy": "原始截图含本机地址栏，只保留本地；公开副本裁去浏览器地址栏",
+  "scope": "3个局部图谱的真实显示，不证明历史使用成效，也不替代本人核验"
+}

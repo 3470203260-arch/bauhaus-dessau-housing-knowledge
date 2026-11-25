@@ -29,7 +29,7 @@
       "id": "V04",
       "dimension": "实际网页显示",
       "status": "unknown",
-      "method": "实际浏览器逐视图检查；不能用静态分析代替"
+      "method": "已实际查看比较页首屏及3幅图谱；全站各视图与交互的完整显示验收仍未完成。"
     },
     {
       "id": "V05",
@@ -52,8 +52,8 @@
     {
       "id": "V08",
       "dimension": "课程图谱实拍",
-      "status": "pending",
-      "method": "3张新版网页实拍尚未补齐"
+      "status": "pass",
+      "method": "3个新版局部图谱已在用户打开的原生浏览器中逐一实拍；公开副本只裁去地址栏和窗口边框。"
     }
   ],
   "overall": "indeterminate",
