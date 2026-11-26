@@ -8,5 +8,11 @@
   "explicit": 44,
   "interpretive": 8,
   "human_verified": 0,
-  "note": "Structure validation does not establish historical truth."
+  "predicate_types": 36,
+  "query_rows": [
+    9,
+    8,
+    8
+  ],
+  "note": "Structure validation does not establish historical truth or personal review."
 }

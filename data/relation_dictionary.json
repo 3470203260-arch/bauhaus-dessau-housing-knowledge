@@ -1,0 +1,362 @@
+[
+  {
+    "predicate": "讨论概念",
+    "group": "研究观点",
+    "definition": "研究条目明确讨论的概念，不表示该概念由该作者首创。",
+    "epistemic_status": "来源明示",
+    "actual_count": "3",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K001;K002;K003"
+  },
+  {
+    "predicate": "强调方法",
+    "group": "研究观点",
+    "definition": "研究条目强调的解释或操作方法，不表示已在所有项目实施。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K004"
+  },
+  {
+    "predicate": "讨论场所",
+    "group": "研究观点",
+    "definition": "研究条目涉及的设计或实验场所，不表示唯一发生地。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K005"
+  },
+  {
+    "predicate": "提示差异",
+    "group": "研究观点",
+    "definition": "研究条目指出的理念差异，不简化为统一立场。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K006"
+  },
+  {
+    "predicate": "组织原则",
+    "group": "研究观点",
+    "definition": "所读研究归纳的方法原则，非已复原的具体项目过程。",
+    "epistemic_status": "来源明示",
+    "actual_count": "2",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K007;K008"
+  },
+  {
+    "predicate": "分析环节",
+    "group": "研究观点",
+    "definition": "所读研究概述的设计分析环节，非全部项目的实录。",
+    "epistemic_status": "来源明示",
+    "actual_count": "4",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K009;K010;K011;K012"
+  },
+  {
+    "predicate": "提示边界",
+    "group": "研究观点",
+    "definition": "作者讨论所依赖的历史或社会条件，不泛化为普遍因果。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K013"
+  },
+  {
+    "predicate": "呈现现象",
+    "group": "研究观点",
+    "definition": "接受史研究描述的现象，不直接等同原项目事实。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K014"
+  },
+  {
+    "predicate": "呈现路径",
+    "group": "研究观点",
+    "definition": "研究讨论的译介或传播路径，不由名称相似自动补链。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K015"
+  },
+  {
+    "predicate": "区分对象",
+    "group": "研究观点",
+    "definition": "研究所区分的解释对象或层次。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K016"
+  },
+  {
+    "predicate": "采用方法",
+    "group": "研究观点",
+    "definition": "研究实际采用或明确陈述的研究方法。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K017"
+  },
+  {
+    "predicate": "采用证据",
+    "group": "研究观点",
+    "definition": "研究使用的证据形式，不表示本专题亲见其全部原件。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K018"
+  },
+  {
+    "predicate": "提醒限制",
+    "group": "研究观点",
+    "definition": "作者承认的材料限制，不补造缺失资料。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K019"
+  },
+  {
+    "predicate": "比较内容",
+    "group": "研究观点",
+    "definition": "比较研究实际分析的维度，不把形式相似写成直接影响。",
+    "epistemic_status": "来源明示",
+    "actual_count": "4",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K020;K021;K022;K023"
+  },
+  {
+    "predicate": "评价议题",
+    "group": "研究观点",
+    "definition": "住宅研究关注的评价议题，不倒推德绍项目实际成效。",
+    "epistemic_status": "来源明示",
+    "actual_count": "3",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K024;K025;K026"
+  },
+  {
+    "predicate": "指出因素",
+    "group": "研究观点",
+    "definition": "所读研究指出与设计相关的因素，不作独立因果估计。",
+    "epistemic_status": "来源明示",
+    "actual_count": "3",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K027;K028;K029"
+  },
+  {
+    "predicate": "提出考虑",
+    "group": "研究观点",
+    "definition": "作者提出的设计考虑，不表示已在本案例验证。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K030"
+  },
+  {
+    "predicate": "分析对象",
+    "group": "研究观点",
+    "definition": "研究实际释读的对象，不指认为住宅中已安装的实物。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K031"
+  },
+  {
+    "predicate": "讨论维度",
+    "group": "研究观点",
+    "definition": "研究评价对象的某一维度，不等同量测结果。",
+    "epistemic_status": "来源明示",
+    "actual_count": "2",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K032;K033"
+  },
+  {
+    "predicate": "提示问题",
+    "group": "研究观点",
+    "definition": "作者指出的解释问题，不转为本专题独立发现的史实。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "研究条目、研究主题或其分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K034"
+  },
+  {
+    "predicate": "设计者",
+    "group": "设计实施",
+    "definition": "来源明确著录的设计责任，不以图注并列人名推断共同设计。",
+    "epistemic_status": "来源明示",
+    "actual_count": "2",
+    "subject_role": "来源所述项目",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K035;K038"
+  },
+  {
+    "predicate": "包含使用",
+    "group": "空间活动",
+    "definition": "项目记述明确包含的使用功能，不证明相互之间没有冲突。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "来源所述项目",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K036"
+  },
+  {
+    "predicate": "室内差异",
+    "group": "空间活动",
+    "definition": "来源明确叙述的室内陈设与色彩差别，不推出完整参与制度。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "来源所述项目",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K037"
+  },
+  {
+    "predicate": "组织施工",
+    "group": "生产组织",
+    "definition": "来源叙述的施工组织条件，不自动等于完全工厂化生产。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "来源所述项目",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K039"
+  },
+  {
+    "predicate": "关联生活",
+    "group": "空间活动",
+    "definition": "项目配置涉及的家庭活动，不证明经济或生活结果已改善。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "来源所述项目",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K040"
+  },
+  {
+    "predicate": "空间作用",
+    "group": "空间活动",
+    "definition": "来源对建筑在住区中作用的叙述，不冒充行为调查。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "来源所述项目",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K041"
+  },
+  {
+    "predicate": "设计实施",
+    "group": "设计实施",
+    "definition": "来源明确的项目实施或组织主体，与领导责任分别著录。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "来源所述项目",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K042"
+  },
+  {
+    "predicate": "设计领导",
+    "group": "设计实施",
+    "definition": "来源明确的领导责任，不等同独自完成全部设计。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "来源所述项目",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K043"
+  },
+  {
+    "predicate": "空间特征",
+    "group": "空间活动",
+    "definition": "来源明确描述的空间特征，不自动推出使用结果。",
+    "epistemic_status": "来源明示",
+    "actual_count": "1",
+    "subject_role": "来源所述项目",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K044"
+  },
+  {
+    "predicate": "本文判断",
+    "group": "本文分析",
+    "definition": "本专题据所列材料形成的有限解释，不作为来源明示。",
+    "epistemic_status": "本文分析",
+    "actual_count": "1",
+    "subject_role": "本专题分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K045"
+  },
+  {
+    "predicate": "本文区分",
+    "group": "本文分析",
+    "definition": "本专题区分两个评价层次，不把区分写成实证结果。",
+    "epistemic_status": "本文分析",
+    "actual_count": "1",
+    "subject_role": "本专题分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K046"
+  },
+  {
+    "predicate": "本文关联",
+    "group": "本文分析",
+    "definition": "本专题建立的分析联系，不据关联主张历史因果。",
+    "epistemic_status": "本文分析",
+    "actual_count": "1",
+    "subject_role": "本专题分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K047"
+  },
+  {
+    "predicate": "本文参照",
+    "group": "本文分析",
+    "definition": "本专题采用的方法参照，不证明实际过程或传播链。",
+    "epistemic_status": "本文分析",
+    "actual_count": "1",
+    "subject_role": "本专题分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K048"
+  },
+  {
+    "predicate": "本文追问",
+    "group": "本文分析",
+    "definition": "本专题保留的待研究问题，不把提问写成已经证实。",
+    "epistemic_status": "本文分析",
+    "actual_count": "1",
+    "subject_role": "本专题分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K049"
+  },
+  {
+    "predicate": "本文要求",
+    "group": "本文分析",
+    "definition": "本专题提出的证据辨认要求，不作为新史实。",
+    "epistemic_status": "本文分析",
+    "actual_count": "2",
+    "subject_role": "本专题分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K050;K051"
+  },
+  {
+    "predicate": "本文借鉴",
+    "group": "本文分析",
+    "definition": "本专题提出的专业方法借鉴，不推断直接历史传承。",
+    "epistemic_status": "本文分析",
+    "actual_count": "1",
+    "subject_role": "本专题分析对象",
+    "object_role": "被关联的人物、组织属性、概念或使用配置",
+    "knowledge_ids": "K052"
+  }
+]
