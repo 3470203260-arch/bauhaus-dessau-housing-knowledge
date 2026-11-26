@@ -1,0 +1,98 @@
+[
+  {
+    "id": "A01",
+    "knowledge_id": "K045",
+    "statement": "本文将整体设计理解为建筑、室内、家具和室外使用之间的联系。",
+    "source_ids": "S01;S09",
+    "locator": "S01下篇4.1；S09第03、06项",
+    "evidence_role": "用于形成有限解释；不是该解释已经获独立实证的认证",
+    "independence_note": "所列作品承担不同论证任务，不按网址数或重复输出次数累计独立证据；核心项目概况仍主要来自S09。",
+    "inference_limit": "跨尺度联系是本文比较框架，不是已证实的住户满意度结论。",
+    "revision_condition": "补充活动、物品、空间之间的实际使用资料后，检验具体尺度联系。",
+    "review_status": "AI已整理解释边界；待本人实质审辨"
+  },
+  {
+    "id": "A02",
+    "knowledge_id": "K046",
+    "statement": "可复制的生产方法不能单独证明家庭支付能力提高。",
+    "source_ids": "S01;S09",
+    "locator": "S01下篇4.1；S09第06项；住户账目未取得",
+    "evidence_role": "用于形成有限解释；不是该解释已经获独立实证的认证",
+    "independence_note": "所列作品承担不同论证任务，不按网址数或重复输出次数累计独立证据；核心项目概况仍主要来自S09。",
+    "inference_limit": "生产可复制不能单独证明家庭支付能力提高，也不能证明未提高。",
+    "revision_condition": "取得收入、支付方式、持续开支及时间范围相容的家庭资料后再评价。",
+    "review_status": "AI已整理解释边界；待本人实质审辨"
+  },
+  {
+    "id": "A03",
+    "knowledge_id": "K047",
+    "statement": "本文将家具、色彩的讨论从视觉统一推进到身体使用条件。",
+    "source_ids": "S08;S09",
+    "locator": "S08印刷页69；S09第03项",
+    "evidence_role": "用于形成有限解释；不是该解释已经获独立实证的认证",
+    "independence_note": "所列作品承担不同论证任务，不按网址数或重复输出次数累计独立证据；核心项目概况仍主要来自S09。",
+    "inference_limit": "家具及色彩记述不等于取得各住户的舒适体验。",
+    "revision_condition": "需要具体家具、使用者与使用情境的证据，不能凭材料名称评分。",
+    "review_status": "AI已整理解释边界；待本人实质审辨"
+  },
+  {
+    "id": "A04",
+    "knowledge_id": "K048",
+    "statement": "本文以梅耶方法作理解集体住宅设计的参照；不声称重建项目完整过程。",
+    "source_ids": "S02;S09",
+    "locator": "S02第2节；S09第08项",
+    "evidence_role": "用于形成有限解释；不是该解释已经获独立实证的认证",
+    "independence_note": "所列作品承担不同论证任务，不按网址数或重复输出次数累计独立证据；核心项目概况仍主要来自S09。",
+    "inference_limit": "方法研究与项目责任记述相容，不等于已复原实际合作过程。",
+    "revision_condition": "取得设计过程文件后核查角色、方案修改及分工，不以两文共现证明因果。",
+    "review_status": "AI已整理解释边界；待本人实质审辨"
+  },
+  {
+    "id": "A05",
+    "knowledge_id": "K049",
+    "statement": "公共通道存在不能直接证明邻里交往成功。",
+    "source_ids": "S06;S09",
+    "locator": "S06第1节；S09第08项",
+    "evidence_role": "用于形成有限解释；不是该解释已经获独立实证的认证",
+    "independence_note": "所列作品承担不同论证任务，不按网址数或重复输出次数累计独立证据；核心项目概况仍主要来自S09。",
+    "inference_limit": "通道存在不证明交往成功；缺少资料也不证明其失败。",
+    "revision_condition": "取得可定位的通行、停留、相遇或住户记述，再判断特定使用结果。",
+    "review_status": "AI已整理解释边界；待本人实质审辨"
+  },
+  {
+    "id": "A06",
+    "knowledge_id": "K050",
+    "statement": "本文区分中国接受中的评价与德绍原始设计事实。",
+    "source_ids": "S03;S05",
+    "locator": "S03第五章；S05第4节",
+    "evidence_role": "用于形成有限解释；不是该解释已经获独立实证的认证",
+    "independence_note": "所列作品承担不同论证任务，不按网址数或重复输出次数累计独立证据；核心项目概况仍主要来自S09。",
+    "inference_limit": "中文接受史不能自动替代德绍项目原始事实，也不建立未经考证的传承链。",
+    "revision_condition": "需同时对应传播文本、传播过程及项目材料，分开检验接受与项目事实。",
+    "review_status": "AI已整理解释边界；待本人实质审辨"
+  },
+  {
+    "id": "A07",
+    "knowledge_id": "K051",
+    "statement": "本文区分原建、后续改变和当代展示的证据身份。",
+    "source_ids": "S04;S09",
+    "locator": "S04第2—3节；S09第04项",
+    "evidence_role": "用于形成有限解释；不是该解释已经获独立实证的认证",
+    "independence_note": "所列作品承担不同论证任务，不按网址数或重复输出次数累计独立证据；核心项目概况仍主要来自S09。",
+    "inference_limit": "当代重建与展示材料不能直接还原原建及全部历史使用。",
+    "revision_condition": "逐项标明原建、后续改动与重建的时间及材料身份后再用于论证。",
+    "review_status": "AI已整理解释边界；待本人实质审辨"
+  },
+  {
+    "id": "A08",
+    "knowledge_id": "K052",
+    "statement": "本文主张以家庭活动变化持续校核空间方案；不推断直接影响。",
+    "source_ids": "S02;S07",
+    "locator": "S02第2节；S07公开下篇趋势展望",
+    "evidence_role": "用于形成有限解释；不是该解释已经获独立实证的认证",
+    "independence_note": "所列作品承担不同论证任务，不按网址数或重复输出次数累计独立证据；核心项目概况仍主要来自S09。",
+    "inference_limit": "相似问题意识不证明迈耶方法直接影响当代中国住宅。",
+    "revision_condition": "增加真实需求资料可校核当代设计；若主张传播影响，另需传播链证据。",
+    "review_status": "AI已整理解释边界；待本人实质审辨"
+  }
+]

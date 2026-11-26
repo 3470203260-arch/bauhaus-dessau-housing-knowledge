@@ -2,9 +2,9 @@
 
 本版根据中文研究重建。问题是德绍住宅组织了哪些生活关系，以及哪些使用决定仍需进一步验证。核心案例为大师住宅、托尔滕排屋和外廊住宅。
 
-[三类住宅比较](docs/research_design.md) · [本轮方法借鉴](docs/method_adaptation.md) · [来源核验](docs/source_verification.md)
+[三类住宅比较](docs/research_design.md) · [本轮方法借鉴](docs/method_adaptation.md) · [来源核验](docs/source_verification.md) · [论证核对](data/argument_checks.csv) · [工作流方法借鉴](docs/workflow_adaptation.md)
 
-在原有图谱和数据上增加案例—命题—来源回查。课堂方法参考M01单独登记，不计入历史来源。
+在原有图谱和数据上增加案例—命题—来源回查。课堂方法参考M01与工作流方法参考M02分别登记，不计入历史来源。8条论证核对记录对应既有K045—K052，说明推论边界和修正条件，不增加知识元或历史发现；仍待本人审辨。
 
 - 9项独立中文来源：6项期刊论文、1项专著、1项馆刊文章、1项专业媒体资料。
 - 69个实体及属性值节点、52条知识元、52条对应关系，知识元和关系不相加。

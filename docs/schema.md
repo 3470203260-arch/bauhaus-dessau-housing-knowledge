@@ -14,3 +14,5 @@ relations：id subject_id predicate object_id knowledge_id source_ids epistemic_
 实际type分类及节点数：{"文献": 8, "概念或属性值": 55, "建筑或聚落": 4, "人物或人物组合": 2}。未另建机构类实体，建筑部门集体项目当前为属性值；文献节点数不等于来源表记录数。
 
 id为表内唯一键；source_ids为分号分隔的来源表外键；locator记录实际印刷页或网页节段，不互相冒充；epistemic_status只取来源明示或本文分析；human_reviewer和human_review_date仅据真实人工审核填写。relations的subject_id和object_id回指实体表，knowledge_id回指最小命题，谓词、来源和证据身份应与对应命题一致。关系的五组用途为解释性归纳，不是已存在的新字段。
+
+argument_checks为8条辅助论证核对记录，不是新知识元。id为A编号，knowledge_id回指K045—K052，statement/source_ids/locator与既有命题保持一致；evidence_role说明证据作用，independence_note说明独立性限制，inference_limit界定不能推出的结果，revision_condition记录哪些后续材料会要求重审，review_status如实保留待本人审辨。CSV和JSON逐字段一致。M02方法来源另见workflow_adaptation.md，不计入9项历史资料。
